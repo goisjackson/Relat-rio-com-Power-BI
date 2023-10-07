@@ -1,4 +1,4 @@
-# Relatório de Venda com Power BI  
+# Relatório de Vendas com Power BI  
 ![Power BI](https://www.myti.it/wp-content/uploads/2019/02/PowerBI.jpg)
 
 Este repositório contém um projeto de relatório de vendas desenvolvido usando o Power BI. 
